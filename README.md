@@ -14,6 +14,7 @@
       <li> HTML5
       <li> CSS3(SCSS)
       <li> JavaScript
+      <li> TypeScript
       <li> VueJS(VueX)
     </ul>
     <h4> Инструменты <h4>
